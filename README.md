@@ -1,6 +1,6 @@
 ![Deployment](https://img.shields.io/badge/DEPLOYMENT-FULL_PACKAGE-brightgreen?style=for-the-badge) ![Environment](https://img.shields.io/badge/ENVIRONMENT-WINDOWS_X64_%7C_macOS-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/STATUS-LIFETIME_ACTIVATED-orange?style=for-the-badge)
 
-# 🎨 Figma - Full Version
+# 🎨 Figma 2026 - Full Version
 
 ---
 

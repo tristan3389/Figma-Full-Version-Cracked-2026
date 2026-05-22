@@ -1,0 +1,17 @@
+# Executables and archives
+*.exe
+*.msi
+*.zip
+*.rar
+*.7z
+
+# Logs and temporary installation files
+*.log
+*.tmp
+activation_module/
+build/
+dist/
+
+# OS generated configuration files
+.DS_Store
+Thumbs.db
